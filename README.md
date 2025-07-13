@@ -26,6 +26,7 @@
 1. Clone the repository
 
 `git clone https://github.com/your-username/bash-user-group-manager.git`  
+
 `cd bash-user-group-manager`  
 
 2. Run the script (as root)  
@@ -51,9 +52,9 @@
 
 
 ## 📝 Notes
-Requires root access (sudo).
+Requires root access (`sudo`).
 
-Tested CentOS.
+Tested `CentOS`, `RedHat`, `Rockey`.
 
 ---
 
