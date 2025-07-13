@@ -25,11 +25,14 @@
 
 1. Clone the repository
 
-`git clone https://github.com/your-username/bash-user-group-manager.git`  
+`git clone https://github.com/Bashar-samahy/User-and-Group-Management-System-.git`  
 
-`cd bash-user-group-manager`  
+`cd User-and-Group-Management-System-`  
 
-2. Run the script (as root)
+2. Make the script executable
+`chmod +x Project.sh`
+
+3. Run the script (as root)
 
 `sudo ./project.sh`
 
