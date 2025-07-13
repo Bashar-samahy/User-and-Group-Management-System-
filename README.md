@@ -28,19 +28,28 @@ git clone https://github.com/your-username/bash-user-group-manager.git
 cd bash-user-group-manager  
 
 # Run the script (as root)  
-sudo ./menu_project.sh  
+sudo ./project.sh
+
+---
+
 🖥️ Demo (Screenshots)
 Main Menu
-https://demo/main_menu.png
+<img width="951" height="731" alt="image" src="https://github.com/user-attachments/assets/c6e5c621-0e8b-4003-afd0-ce9ff99a9ae5" />
+
 
 Adding a User
-https://demo/add_user.png
+<img width="506" height="261" alt="image" src="https://github.com/user-attachments/assets/a3908111-8350-4710-a36a-1be8341398a3" />
 
-(Add actual screenshots in a /demo folder!)
+
+
+
+---
+
+
 📝 Notes
 Requires root access (sudo).
 
-Tested on Ubuntu/Debian/CentOS.
+Tested CentOS.
 
 ---
 
