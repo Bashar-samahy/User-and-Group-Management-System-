@@ -22,12 +22,12 @@
 ---
 
 ## 📦 Installation & Usage  
-```bash
-# Clone the repository  
+
+1. Clone the repository  
 git clone https://github.com/your-username/bash-user-group-manager.git  
 cd bash-user-group-manager  
 
-# Run the script (as root)  
+2. Run the script (as root)  
 sudo ./project.sh
 
 ---
