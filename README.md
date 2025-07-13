@@ -33,14 +33,14 @@
 
 ---
 
-## 🖥️ Demo (Screenshots)
+### 🖥️ Demo (Screenshots)
 
 # Main Menu
 
 <img width="951" height="731" alt="image" src="https://github.com/user-attachments/assets/c6e5c621-0e8b-4003-afd0-ce9ff99a9ae5" />
 
 
-#Adding a User
+# Adding a User
 
 <img width="506" height="261" alt="image" src="https://github.com/user-attachments/assets/a3908111-8350-4710-a36a-1be8341398a3" />
 
