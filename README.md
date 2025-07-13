@@ -23,21 +23,25 @@
 
 ## 📦 Installation & Usage  
 
-1. Clone the repository  
-git clone https://github.com/your-username/bash-user-group-manager.git  
-cd bash-user-group-manager  
+1. Clone the repository
+
+`git clone https://github.com/your-username/bash-user-group-manager.git`  
+`cd bash-user-group-manager`  
 
 2. Run the script (as root)  
-sudo ./project.sh
+`sudo ./project.sh`
 
 ---
 
 🖥️ Demo (Screenshots)
+
 Main Menu
+
 <img width="951" height="731" alt="image" src="https://github.com/user-attachments/assets/c6e5c621-0e8b-4003-afd0-ce9ff99a9ae5" />
 
 
 Adding a User
+
 <img width="506" height="261" alt="image" src="https://github.com/user-attachments/assets/a3908111-8350-4710-a36a-1be8341398a3" />
 
 
@@ -54,13 +58,21 @@ Tested CentOS.
 ---
 
 ### **2. Organize Repository Structure**
+
 bash-user-group-manager/
+
 ├── README.md # Project documentation (main page)
+
 ├── menu_project.sh # Main Bash script
+
 ├── demo/ # Screenshots/GIFs for demo
+
 │ ├── main_menu.png
+
 │ └── add_user.png
+
 └── LICENSE # Add a license (e.g., MIT)
+
 ---
 
 ### **3. Enhance Visibility with GitHub Features**
@@ -76,8 +88,5 @@ bash-user-group-manager/
 
 ---
 
-### **Example Final Look**  
-![GitHub Repo Example](https://i.imgur.com/Jf1qj9P.png)  
-*(A clean, visual-first `README.md` with clear sections.)*  
 
 Let me know if you’d like help with specific GitHub markdown syntax or automation! 🚀
