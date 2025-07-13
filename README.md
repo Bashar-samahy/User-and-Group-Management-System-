@@ -35,12 +35,12 @@
 
 ## 🖥️ Demo (Screenshots)
 
-Main Menu
+# Main Menu
 
 <img width="951" height="731" alt="image" src="https://github.com/user-attachments/assets/c6e5c621-0e8b-4003-afd0-ce9ff99a9ae5" />
 
 
-Adding a User
+#Adding a User
 
 <img width="506" height="261" alt="image" src="https://github.com/user-attachments/assets/a3908111-8350-4710-a36a-1be8341398a3" />
 
@@ -60,11 +60,17 @@ Tested CentOS.
 ### **2. Organize Repository Structure**
 
 bash-user-group-manager/
+
 ├── README.md # Project documentation (main page)
+
 ├── menu_project.sh # Main Bash script
+
 ├── demo/ # Screenshots/GIFs for demo
+
 │ ├── main_menu.png
+
 │ └── add_user.png
+
 └── LICENSE # Add a license (e.g., MIT)
 
 ---
