@@ -91,6 +91,8 @@ bash-user-group-manager/
 - **Wiki**: Add a wiki for advanced usage (e.g., customizing Whiptail).  
 - **Issues Template**: Guide users on how to report bugs.  
 
+---
+
 ### **5. Push Changes to GitHub**
 `git add README.md demo/ Project.sh`
 `git commit -m "Updated README to match reference project"`
