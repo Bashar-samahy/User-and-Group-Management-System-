@@ -12,3 +12,4 @@ A lightweight and interactive user & group management system built entirely usin
 🛡️ Root privilege check to ensure secure execution
 💡 Whiptail-based menu for ease of use
 📦 No external dependencies — uses core Linux utilities
+<img width="951" height="731" alt="image" src="https://github.com/user-attachments/assets/30d25e8f-819e-43a7-942d-07c4bc786178" />
