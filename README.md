@@ -33,7 +33,7 @@
 
 ---
 
-🖥️ Demo (Screenshots)
+## 🖥️ Demo (Screenshots)
 
 Main Menu
 
@@ -50,7 +50,7 @@ Adding a User
 ---
 
 
-📝 Notes
+## 📝 Notes
 Requires root access (sudo).
 
 Tested CentOS.
@@ -60,17 +60,11 @@ Tested CentOS.
 ### **2. Organize Repository Structure**
 
 bash-user-group-manager/
-
 ├── README.md # Project documentation (main page)
-
 ├── menu_project.sh # Main Bash script
-
 ├── demo/ # Screenshots/GIFs for demo
-
 │ ├── main_menu.png
-
 │ └── add_user.png
-
 └── LICENSE # Add a license (e.g., MIT)
 
 ---
