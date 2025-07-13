@@ -29,7 +29,8 @@
 
 `cd bash-user-group-manager`  
 
-2. Run the script (as root)  
+2. Run the script (as root)
+
 `sudo ./project.sh`
 
 ---
